@@ -1,0 +1,2 @@
+
+Time: 2018-12-04 15:28:58.846820  Run: 2Evaluation Metric: 73281.59799799696Fit Denominator: 44595.49256687392
